@@ -2,4 +2,6 @@
 
 var customerName 
 
-function 
+function upperCaseCustomerName {
+  
+}
